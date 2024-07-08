@@ -1,0 +1,12 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+.idea
+*.iml
+out/
+
+.vscode/
+
+.kotlin
+
+.DS_Store
